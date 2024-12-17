@@ -70,7 +70,7 @@ To trigger a manual build, push your changes to GitHub:
 git push origin main
 ```
 
-Once the build completes, you can download the APK from the **Artifacts** section in GitHub Actions.
+Once the build completes, you can download the **debug APK** from the **Artifacts** section in GitHub Actions.
 
 ## ProGuard (R8) Configuration
 
