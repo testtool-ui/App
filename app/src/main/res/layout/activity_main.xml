@@ -44,7 +44,7 @@
             android:layout_weight="1"
             android:hint="Type a message..."
             android:padding="10dp"
-            android:background="@drawable/input_background" />
+            android:background="@drawable/input_background" /> <!-- Applying the input background -->
 
         <Button
             android:id="@+id/sendButton"
