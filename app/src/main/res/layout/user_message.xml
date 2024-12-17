@@ -3,12 +3,11 @@
     android:id="@+id/messageText"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="#bee3f8"  <!-- Background color -->
+    android:background="@drawable/input_background"  <!-- Apply the input background drawable -->
     android:padding="10dp"
     android:textColor="#000"
     android:textSize="16sp"
     android:layout_gravity="end"
     android:maxWidth="300dp"  <!-- Changed '70%' to '300dp' -->
     android:layout_margin="5dp"
-    android:lineSpacingExtra="2dp"
-    android:radius="8dp" /> <!-- No radius attribute in TextView, unless using custom drawable -->
+    android:lineSpacingExtra="2dp" />
