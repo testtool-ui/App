@@ -3,10 +3,10 @@ name: Build APK
 on:
   push:
     branches:
-      - main
+      - mai
   pull_request:
     branches:
-      - main
+      - mai
 
 jobs:
   build:
